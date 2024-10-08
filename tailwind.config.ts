@@ -63,11 +63,7 @@ const config: Config = {
 				sans: [...fontFamily.sans],
 				workSans: "work-sans",
 				workSansItalic: "work-sans-italic",
-			},
-			backgroundImage: {
-				"mobile-pattern": "url(./src/assets/background-mobile.svg)",
-				"dekstop-pattern": "url(./src/assets/background-desktop.svg)",
-			},
+			}
 		},
 	},
 };

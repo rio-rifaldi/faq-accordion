@@ -98,14 +98,13 @@ i'm going to show you my solution for [frontendmentor challenges](https://www.fr
 
 <br>
 
-| **name** | **hex** |                                    **color**                                    |
-|:-------:|:-------:|:-------------------------------------------------------------------------------:|
-| Very-dark-blue-main-bg | #0d192b | ![#0d192b](https://icongr.am/entypo/controller-record.svg?size=50&color=0d192b) |
-| Very-dark-blue-card-BG | #14253d | ![#14253d](https://icongr.am/entypo/controller-record.svg?size=50&color=14253d) |
-| Very-dark-blue-line | #2f415b | ![#2f415b](https://icongr.am/entypo/controller-record.svg?size=50&color=2f415b) |
-| White | #ffffff | ![#ffffff](https://icongr.am/entypo/controller-record.svg?size=50&color=ffffff) |
-| Soft-blue | #8bacda | ![#8bacda](https://icongr.am/entypo/controller-record.svg?size=50&color=8bacda) |
-| Cyan | #00fff7 | ![#00fff7](https://icongr.am/entypo/controller-record.svg?size=50&color=00fff7) |
+| **hex** |                                    **color**                                    |
+|:-------:|:-------------------------------------------------------------------------------:|
+| #EBD3F8 | ![#EBD3F8](https://icongr.am/entypo/controller-record.svg?size=50&color=EBD3F8) |
+| #f9f0ff | ![#f9f0ff](https://icongr.am/entypo/controller-record.svg?size=50&color=f9f0ff) |
+| #8c6991 | ![#8c6991](https://icongr.am/entypo/controller-record.svg?size=50&color=8c6991) |
+| #2f1533 | ![#2f1533](https://icongr.am/entypo/controller-record.svg?size=50&color=2f1533) |
+| #ffffff | ![#ffffff](https://icongr.am/entypo/controller-record.svg?size=50&color=ffffff) |
 
 # 📌 Getting Started
 

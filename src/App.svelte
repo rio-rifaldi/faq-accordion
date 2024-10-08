@@ -9,7 +9,7 @@
 </script>
 <ModeWatcher />
 
-<main class="font-workSans h-screen bg-mobile-pattern bg-no-repeat bg-contain md:bg-dekstop-pattern">
+<main class="font-workSans h-screen bg-[url(./assets/background-mobile.svg)] bg-no-repeat bg-contain md:bg-[url(./assets/background-desktop.svg)]">
   <ToggleTheme />
     <div class="bg-white dark:bg-[#191825] max-w-xl mx-4 sm:mx-auto rounded-xl p-5 px-8 mt-40 shadow-md">
         <div class=" flex gap-8 items-center">
